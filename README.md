@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+:mortar_board: An undergraduate(21-25) of Wuhan University, School of Computer Science~ 
+
+🌱 I’m currently learning Deep learning, Video/Image processing, and other techniques in computer science. 
+:computer: I'm also an oier who won 2 ICPC Regional Gold Medals🏅️~
+
+Hope to go further in the direction that truly interests me and do something that counts!
 <!--
 **zzzhy03/zzzhy03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
